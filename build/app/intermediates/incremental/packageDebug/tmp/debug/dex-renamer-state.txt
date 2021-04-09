@@ -1,0 +1,4 @@
+#Fri Apr 09 00:08:37 SGT 2021
+base.0=/home/romeo/Documents/School/tyto/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
